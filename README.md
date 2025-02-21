@@ -1,0 +1,1 @@
+This repository demonstrates a common runtime error in Dart: the IndexOutOfBoundsException. The `bug.dart` file contains code that attempts to access an element of a list using an invalid index. The `bugSolution.dart` file shows how to prevent this error using checks and safe access methods.
